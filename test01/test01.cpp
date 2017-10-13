@@ -28,6 +28,7 @@ int main(void)
 	printf("sum3 = %f\n", sum3);
 
 	printf("this is the first change\n\n\n\n");
+	printf("this is the second change\n\n\n\n");
 
 	system("pause");
 
